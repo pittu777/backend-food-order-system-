@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+.DS_Store
+*.log
+
+# Build directory
+dist/
+build/
+
+# Optional: If you're using a database, you may want to ignore database files
+*.sqlite
